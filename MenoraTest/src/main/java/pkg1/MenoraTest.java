@@ -21,7 +21,7 @@ public class MenoraTest {
 		driver = new ChromeDriver(new ChromeOptions().addArguments("--remote-allow-origins=*"));
 	}
 	
-	
+	BDIKA
 	
 	//@Test
 	public static void menoraTest() {
