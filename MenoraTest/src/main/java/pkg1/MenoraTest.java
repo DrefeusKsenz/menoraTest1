@@ -21,8 +21,10 @@ public class MenoraTest {
 		driver = new ChromeDriver(new ChromeOptions().addArguments("--remote-allow-origins=*"));
 	}
 	
-	ATSLAHA
-	
+	//ATSLAHA
+	//
+
+
 	//@Test
 	public static void menoraTest() {
 		driver.get("https://www.menoramivt.co.il/");
